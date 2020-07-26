@@ -1,0 +1,58 @@
+.header{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: aquamarine;
+}
+.navbar-brand{
+  margin-left: 148px;
+}
+.navbar-nav{
+  margin-right: 138px;
+}
+.logo-1{
+color: black;
+background-color: transparent;
+}
+.no-display{
+  opacity: 0;
+}
+.notifi-of-not-result{
+  color: gray;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+  z-index: 1;
+  background-color: white;
+}
+.search-box{
+  position: relative;
+  top: 12px;
+
+}
+input{
+  border: 1px solid #ced4da !important;
+  border-radius: .25rem !important;
+  width: 200px;
+  padding: 0;
+  font-size: 17px;
+  z-index: 2;
+}
+.header{
+  border-bottom:1px solid #ced4da;
+ padding: 0;
+ position: relative;
+ top: 0;
+ width: 100%;
+ background-color: white;
+ z-index: 4;
+}
+.head{
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+._6q-tv{
+  width: 28px;
+  border-radius: 50%;
+  border: solid black 1px;
+  padding: 2px;
+}

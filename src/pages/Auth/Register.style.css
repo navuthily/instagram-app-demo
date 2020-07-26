@@ -1,0 +1,109 @@
+
+
+.register-form{
+  display: block;
+  margin: 20px;
+  position: relative;
+
+}
+.register-form input{
+  display: flex;
+  margin: auto;
+  font-size: 12px;
+  padding: 5px;
+  width: 100%;
+  margin-top: 5px;
+}
+
+.register-form button{
+margin-top: 20px;
+background-color: #0095f6;
+width: 100%;
+border: none;
+border-radius: 5px;
+color: white;
+padding: 5px;
+}
+.forget-pass{
+  color: #00376b;
+}
+.forget-pass:hover{
+  color: #00376b;
+}
+
+a{
+  text-decoration: none;
+  color: #0056b3;
+}
+a :hover{
+  text-decoration: none;
+}
+a:link{
+  text-decoration: none;
+}
+.form-2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+
+}
+.ask{
+  margin: 0;
+}
+
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .bg-form{
+    border: 1px solid #ced4da;
+    width: 60%;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media (min-width:600px ) and (max-width: 768px) {  
+  .bg-form{
+    border: 1px solid #ced4da;
+    width: 60%;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media (min-width:769px ) and (max-width: 991px){
+
+  .bg-form{
+    border: 1px solid #ced4da;
+    width: 50%;
+  }
+  .register-form{
+    display: block;
+
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .bg-form{
+    border: 1px solid #ced4da;
+    width: 30%;
+
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .bg-form{
+    border: 1px solid #ced4da;
+    width: 30%;
+
+  }
+}
+
+.bg-form{
+  position: relative;
+  right: 0;
+  margin: auto;
+  margin-top: 10%
+}

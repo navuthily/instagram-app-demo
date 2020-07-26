@@ -1,0 +1,90 @@
+body{
+  overflow-x: hidden;
+  justify-content: center;
+}
+.V64Sp{
+  background-image: url(https://www.instagram.com/static/images/homepage/home-phones.png/43cc71bb1b43.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  position: relative;
+
+  height:100% ;
+  left: 25%;
+}
+
+.RP4i1{
+  height: 71%;
+
+  position: absolute;
+  top: 15%;
+  right: 63.5%
+}
+.yOZjD{
+  display: flex;
+justify-content: center;
+
+}
+.login-form{
+  display: block;
+  margin: 20px;
+  position: relative;
+
+}
+.login-form input{
+  display: flex;
+  margin: auto;
+  font-size: 12px;
+  padding: 5px;
+  width: 100%;
+  margin-top: 5px;
+}
+
+.login-form button{
+margin-top: 20px;
+background-color: #0095f6;
+width: 100%;
+border: none;
+border-radius: 5px;
+color: white;
+padding: 5px;
+}
+.forget-pass{
+  color: #00376b;
+}
+.forget-pass:hover{
+  color: #00376b;
+}
+
+a{
+  text-decoration: none;
+  color: #0056b3;
+}
+a :hover{
+  text-decoration: none;
+}
+a:link{
+  text-decoration: none;
+}
+.form-2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+
+}
+.ask{
+  margin: 0;
+}
+
+._80tAB div >div:last-child{
+  
+  margin-top: 5%;
+}
+.bg-form{
+  border: 1px solid #ced4da;
+  width: 60%;
+  position: relative;
+  right: 10%;
+ 
+
+}
